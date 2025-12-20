@@ -1,9 +1,11 @@
 // added jupyter lab to Codespaces
+// added postCreateCommand: pip install -r requirements.txt
 {
-  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "image": "mcr.microsoft.com/devcontainers/python:3.11",
   "features": {
     "ghcr.io/devcontainers/features/python:1": {
       "installJupyterlab": true
     }
-  }
+  },
+  "postCreateCommand": "pip install -r requirements.txt"
 }
