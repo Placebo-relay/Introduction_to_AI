@@ -1,0 +1,9 @@
+// added jupyter lab to Codespaces
+{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {
+    "ghcr.io/devcontainers/features/python:1": {
+      "installJupyterlab": true
+    }
+  }
+}
