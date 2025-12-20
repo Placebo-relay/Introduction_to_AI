@@ -1,7 +1,6 @@
 # added requirements.txt
 pandas
 numpy
-matplotlib
-scipy
 jupyter
-ipykernel
+json
+requests
