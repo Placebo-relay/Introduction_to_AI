@@ -1,6 +1,2 @@
 # added requirements.txt
 pandas
-numpy
-jupyter
-json
-requests
