@@ -1,5 +1,9 @@
 ## Intro_AI_2k25_labs
 
+dop: [Olympiad_certificate](https://raw.githubusercontent.com/Placebo-relay/Introduction_to_AI/AI.pdf)
+
+years of olmpd: 2024/2025, 2025/2026(not ready, ~end of December)
+
 1. Parsing Done file 2. Par...ipynb
 2. API  Done file 3. API.ipynb
 3. Preprocessing Done (using raw.csv) -> result: clean...csv file 4. Prepro...ipynb
