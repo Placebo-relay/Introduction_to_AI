@@ -1,6 +1,6 @@
 ## Intro_AI_2k25_labs
 
-dop: [Olympiad_certificate](https://raw.githubusercontent.com/Placebo-relay/Introduction_to_AI/AI.pdf)
+dop: [AI_Olympiad_certificate](https://raw.githubusercontent.com/Placebo-relay/Introduction_to_AI/AI.pdf)
 
 years of olmpd: 2024/2025, 2025/2026(not ready, ~end of December)
 
