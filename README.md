@@ -1,8 +1,8 @@
 ## Intro_AI_2k25_labs
 
-dop: [AI_Olympiad_certificate](https://raw.githubusercontent.com/Placebo-relay/Introduction_to_AI/AI.pdf)
-
-years of olmpd: 2024/2025, 2025/2026(not ready, ~end of December)
+dop: [AI_Olympiad_certificate](https://raw.githubusercontent.com/Placebo-relay/Introduction_to_AI/AI2k25.pdf)
+dop new: [AI_Olympiad_certificate](https://raw.githubusercontent.com/Placebo-relay/Introduction_to_AI/AI2k26.pdf)
+years of olmpd on AI: 2024/2025, 2025/2026
 
 1. Parsing Done file 2. Par...ipynb
 2. API  Done file 3. API.ipynb
